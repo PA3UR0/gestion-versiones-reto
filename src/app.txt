@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modulo: Login de Juan
+=======
+Modulo: Panel de Pedro
+>>>>>>> rama-pedro
